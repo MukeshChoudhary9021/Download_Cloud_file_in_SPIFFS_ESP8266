@@ -175,17 +175,3 @@ Read and Print File Content
 ```
 
 ---
-
-## Author
-
-**Mukesh Choudhary**
-
-Electronics & Telecommunication Engineering
-
-Interested in Embedded Systems, Firmware Development, IoT, and Robotics.
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
